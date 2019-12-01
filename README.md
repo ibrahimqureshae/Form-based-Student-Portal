@@ -2,7 +2,7 @@ FormBasedStudentPortal
 Student Portal (Windows Form Applicationn) in .NET Following are the key Features of the Code
 
 Login 
-
+![Annotation 2019-12-01 235527](https://user-images.githubusercontent.com/38296248/69918610-18168380-1496-11ea-8ab3-49969838b3d3.png)
 Create Student profile
 For create user profile store the following information against student object
 
@@ -12,7 +12,7 @@ Semseter
 CGPA
 Department
 University
-
+![Annotation 2019-12-01 234715](https://user-images.githubusercontent.com/38296248/69918611-18168380-1496-11ea-9f39-68f636206138.png)
 Search Student For search student please provide the following searche options in menu and user should select the search option
 
 Search By ID (Will only return 1 student)
